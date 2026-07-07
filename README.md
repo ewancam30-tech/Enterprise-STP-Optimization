@@ -185,7 +185,7 @@ The architecture uses the same enterprise topology from Project 4, with the addi
 
 ### Network Topology Diagram
 ---
-![alt text](image.png)
+<img width="661" height="299" alt="Screenshot 2026-07-06 174208" src="https://github.com/user-attachments/assets/1f2d56cc-c686-4f89-89a7-4ae970676f58" />
 
 ### Logical Topology Summary
 
