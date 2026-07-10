@@ -1214,17 +1214,17 @@ This project demonstrates practical enterprise switching knowledge and shows the
 | **Item** | **Status** |
 |---------|------------|
 | README completed | Complete |
-| Packet Tracer file uploaded | Pending |
-| Topology screenshot uploaded | Pending |
-| STP summary screenshot uploaded | Pending |
-| Root bridge screenshot uploaded | Pending |
-| Blocked port screenshot uploaded | Pending |
-| Trunk status screenshot uploaded | Pending |
-| Printer port VLAN 50 screenshot uploaded | Pending |
-| PortFast and BPDU Guard screenshot uploaded | Pending |
-| Failover test screenshot uploaded | Pending |
-| Running configuration files uploaded | Pending |
-| Troubleshooting notes uploaded | Pending |
+| Packet Tracer file uploaded | Complete |
+| Topology screenshot uploaded | Complete |
+| STP summary screenshot uploaded | Complete |
+| Root bridge screenshot uploaded | Complete |
+| Blocked port screenshot uploaded | Complete |
+| Trunk status screenshot uploaded | Complete |
+| Printer port VLAN 50 screenshot uploaded | Complete |
+| PortFast and BPDU Guard screenshot uploaded | Complete |
+| Failover test screenshot uploaded | Complete |
+| Running configuration files uploaded | Complete |
+| Troubleshooting notes uploaded | Complete |
 
 ---
 
